@@ -2,6 +2,7 @@ import HeroSection from "@/components/HeroSection";
 import CoursesSection from "@/components/CoursesSection";
 import FeaturesSection from "@/components/FeaturesSection";
 import StatsSection from "@/components/StatsSection";
+import DreamTrackerSection from "@/components/DreamTrackerSection";
 import CTASection from "@/components/CTASection";
 
 const Index = () => {
@@ -11,6 +12,7 @@ const Index = () => {
       <CoursesSection />
       <FeaturesSection />
       <StatsSection />
+      <DreamTrackerSection />
       <CTASection />
     </div>
   );
